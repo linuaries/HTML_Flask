@@ -1,0 +1,9 @@
+click
+Flask
+flask-cors
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+python-dotenv
+Werkzeug
